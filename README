@@ -89,3 +89,10 @@ Enjoy!
 
 Chet Ramey
 chet.ramey@case.edu
+
+GIT REPO ADDENDUM
+=================
+
+The Bash source is available via http & ftp, but not via any sort of VCS.  As such I have taken the source, applied the patches, and made the repo available here.  All bugs should be submitted back to the original project.
+
+Mark Carey
